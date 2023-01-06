@@ -1,4 +1,4 @@
-# tutorial para levantar un sitio con “login” en segundos
+# tutorial para levantar un sitio con “login” en poco tiempo
 1.	Abrir XAMPP y “arrancar” el Apache y el MySQL.
 2.	Escribí localhost:8080 o 127.0.0.1:8080 en tu navegador.
 3.	En el menu dale click a phpMyAdmin.
